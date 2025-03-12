@@ -8,7 +8,6 @@
 [![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/node-create-react-app)
 
 Deploy your own clone of this app to Begin!
-
 ## Available Scripts
 
 In the project directory, you can run:
